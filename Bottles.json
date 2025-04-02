@@ -1,6 +1,7 @@
 {
   "products": [
     {
+      "id": 1,
       "name": "Pure Aqua Water Bottle",
       "brand": "AquaFresh",
       "capacity_ml": 1000,
@@ -16,6 +17,7 @@
       }
     },
     {
+      "id": 2,
       "name": "Crystal Clear Water Bottle",
       "brand": "EcoHydro",
       "capacity_ml": 750,
@@ -31,6 +33,7 @@
       }
     },
     {
+      "id": 3,
       "name": "Sporty Hydration Bottle",
       "brand": "FitFlow",
       "capacity_ml": 1500,
@@ -46,6 +49,7 @@
       }
     },
     {
+      "id": 4,
       "name": "Mini Traveler Bottle",
       "brand": "CompactDrink",
       "capacity_ml": 500,
@@ -61,6 +65,7 @@
       }
     },
     {
+      "id": 5,
       "name": "Thermo Guard Flask",
       "brand": "HotCold",
       "capacity_ml": 1200,
@@ -76,6 +81,7 @@
       }
     },
     {
+      "id": 6,
       "name": "Eco-Friendly Bamboo Bottle",
       "brand": "GreenHydrate",
       "capacity_ml": 800,
@@ -91,6 +97,7 @@
       }
     },
     {
+      "id": 7,
       "name": "Ultra Light Plastic Bottle",
       "brand": "LightFlow",
       "capacity_ml": 600,
@@ -106,6 +113,7 @@
       }
     },
     {
+      "id": 8,
       "name": "Stainless Steel Adventure Bottle",
       "brand": "TrailBlazer",
       "capacity_ml": 1800,
@@ -121,6 +129,7 @@
       }
     },
     {
+      "id": 9,
       "name": "Collapsible Travel Bottle",
       "brand": "FlexiDrink",
       "capacity_ml": 700,
@@ -136,6 +145,7 @@
       }
     },
     {
+      "id": 10,
       "name": "Luxury Gold Water Bottle",
       "brand": "EliteHydrate",
       "capacity_ml": 1000,
