@@ -1,0 +1,80 @@
+{
+    "products": [
+      {
+        "name": "Pure Aqua Water Bottle",
+        "brand": "AquaFresh",
+        "capacity_ml": 1000,
+        "material": "BPA-Free Plastic",
+        "price": 2.99,
+        "currency": "USD",
+        "available": true,
+        "image": "https://example.com/images/pure-aqua-water-bottle.jpg",
+        "seller": {
+          "name": "Hydration Supplies Ltd.",
+          "email": "contact@hydrationsupplies.com",
+          "location": "New York, USA"
+        }
+      },
+      {
+        "name": "Crystal Clear Water Bottle",
+        "brand": "EcoHydro",
+        "capacity_ml": 750,
+        "material": "Glass",
+        "price": 4.99,
+        "currency": "USD",
+        "available": true,
+        "image": "https://example.com/images/crystal-clear-bottle.jpg",
+        "seller": {
+          "name": "Eco Water Solutions",
+          "email": "support@ecowaters.com",
+          "location": "Los Angeles, USA"
+        }
+      },
+      {
+        "name": "Sporty Hydration Bottle",
+        "brand": "FitFlow",
+        "capacity_ml": 1500,
+        "material": "Stainless Steel",
+        "price": 9.99,
+        "currency": "USD",
+        "available": false,
+        "image": "https://example.com/images/sporty-hydration-bottle.jpg",
+        "seller": {
+          "name": "Active Gear Ltd.",
+          "email": "sales@activegear.com",
+          "location": "Chicago, USA"
+        }
+      },
+      {
+        "name": "Mini Traveler Bottle",
+        "brand": "CompactDrink",
+        "capacity_ml": 500,
+        "material": "Aluminum",
+        "price": 5.49,
+        "currency": "USD",
+        "available": true,
+        "image": "https://example.com/images/mini-traveler-bottle.jpg",
+        "seller": {
+          "name": "Travel Essentials Co.",
+          "email": "info@travelessentials.com",
+          "location": "San Francisco, USA"
+        }
+      },
+      {
+        "name": "Thermo Guard Flask",
+        "brand": "HotCold",
+        "capacity_ml": 1200,
+        "material": "Double-Walled Stainless Steel",
+        "price": 14.99,
+        "currency": "USD",
+        "available": true,
+        "image": "https://example.com/images/thermo-guard-flask.jpg",
+        "seller": {
+          "name": "Thermal Solutions",
+          "email": "contact@thermalsolutions.com",
+          "location": "Seattle, USA"
+        }
+      }
+    ]
+  }
+  
