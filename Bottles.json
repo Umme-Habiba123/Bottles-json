@@ -1,80 +1,154 @@
 {
-    "products": [
-      {
-        "name": "Pure Aqua Water Bottle",
-        "brand": "AquaFresh",
-        "capacity_ml": 1000,
-        "material": "BPA-Free Plastic",
-        "price": 2.99,
-        "currency": "USD",
-        "available": true,
-        "image": "https://example.com/images/pure-aqua-water-bottle.jpg",
-        "seller": {
-          "name": "Hydration Supplies Ltd.",
-          "email": "contact@hydrationsupplies.com",
-          "location": "New York, USA"
-        }
-      },
-      {
-        "name": "Crystal Clear Water Bottle",
-        "brand": "EcoHydro",
-        "capacity_ml": 750,
-        "material": "Glass",
-        "price": 4.99,
-        "currency": "USD",
-        "available": true,
-        "image": "https://example.com/images/crystal-clear-bottle.jpg",
-        "seller": {
-          "name": "Eco Water Solutions",
-          "email": "support@ecowaters.com",
-          "location": "Los Angeles, USA"
-        }
-      },
-      {
-        "name": "Sporty Hydration Bottle",
-        "brand": "FitFlow",
-        "capacity_ml": 1500,
-        "material": "Stainless Steel",
-        "price": 9.99,
-        "currency": "USD",
-        "available": false,
-        "image": "https://example.com/images/sporty-hydration-bottle.jpg",
-        "seller": {
-          "name": "Active Gear Ltd.",
-          "email": "sales@activegear.com",
-          "location": "Chicago, USA"
-        }
-      },
-      {
-        "name": "Mini Traveler Bottle",
-        "brand": "CompactDrink",
-        "capacity_ml": 500,
-        "material": "Aluminum",
-        "price": 5.49,
-        "currency": "USD",
-        "available": true,
-        "image": "https://example.com/images/mini-traveler-bottle.jpg",
-        "seller": {
-          "name": "Travel Essentials Co.",
-          "email": "info@travelessentials.com",
-          "location": "San Francisco, USA"
-        }
-      },
-      {
-        "name": "Thermo Guard Flask",
-        "brand": "HotCold",
-        "capacity_ml": 1200,
-        "material": "Double-Walled Stainless Steel",
-        "price": 14.99,
-        "currency": "USD",
-        "available": true,
-        "image": "https://example.com/images/thermo-guard-flask.jpg",
-        "seller": {
-          "name": "Thermal Solutions",
-          "email": "contact@thermalsolutions.com",
-          "location": "Seattle, USA"
-        }
+  "products": [
+    {
+      "name": "Pure Aqua Water Bottle",
+      "brand": "AquaFresh",
+      "capacity_ml": 1000,
+      "material": "BPA-Free Plastic",
+      "price": 2.99,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/pure-aqua-water-bottle.jpg",
+      "seller": {
+        "name": "Hydration Supplies Ltd.",
+        "email": "contact@hydrationsupplies.com",
+        "location": "New York, USA"
       }
-    ]
-  }
-  
+    },
+    {
+      "name": "Crystal Clear Water Bottle",
+      "brand": "EcoHydro",
+      "capacity_ml": 750,
+      "material": "Glass",
+      "price": 4.99,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/crystal-clear-bottle.jpg",
+      "seller": {
+        "name": "Eco Water Solutions",
+        "email": "support@ecowaters.com",
+        "location": "Los Angeles, USA"
+      }
+    },
+    {
+      "name": "Sporty Hydration Bottle",
+      "brand": "FitFlow",
+      "capacity_ml": 1500,
+      "material": "Stainless Steel",
+      "price": 9.99,
+      "currency": "USD",
+      "available": false,
+      "image": "https://example.com/images/sporty-hydration-bottle.jpg",
+      "seller": {
+        "name": "Active Gear Ltd.",
+        "email": "sales@activegear.com",
+        "location": "Chicago, USA"
+      }
+    },
+    {
+      "name": "Mini Traveler Bottle",
+      "brand": "CompactDrink",
+      "capacity_ml": 500,
+      "material": "Aluminum",
+      "price": 5.49,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/mini-traveler-bottle.jpg",
+      "seller": {
+        "name": "Travel Essentials Co.",
+        "email": "info@travelessentials.com",
+        "location": "San Francisco, USA"
+      }
+    },
+    {
+      "name": "Thermo Guard Flask",
+      "brand": "HotCold",
+      "capacity_ml": 1200,
+      "material": "Double-Walled Stainless Steel",
+      "price": 14.99,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/thermo-guard-flask.jpg",
+      "seller": {
+        "name": "Thermal Solutions",
+        "email": "contact@thermalsolutions.com",
+        "location": "Seattle, USA"
+      }
+    },
+    {
+      "name": "Eco-Friendly Bamboo Bottle",
+      "brand": "GreenHydrate",
+      "capacity_ml": 800,
+      "material": "Bamboo & Stainless Steel",
+      "price": 12.99,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/eco-bamboo-bottle.jpg",
+      "seller": {
+        "name": "Sustainable Living Co.",
+        "email": "hello@sustainableliving.com",
+        "location": "Austin, USA"
+      }
+    },
+    {
+      "name": "Ultra Light Plastic Bottle",
+      "brand": "LightFlow",
+      "capacity_ml": 600,
+      "material": "Recycled Plastic",
+      "price": 3.49,
+      "currency": "USD",
+      "available": false,
+      "image": "https://example.com/images/ultra-light-bottle.jpg",
+      "seller": {
+        "name": "Everyday Hydration",
+        "email": "support@everydayhydration.com",
+        "location": "Miami, USA"
+      }
+    },
+    {
+      "name": "Stainless Steel Adventure Bottle",
+      "brand": "TrailBlazer",
+      "capacity_ml": 1800,
+      "material": "Insulated Stainless Steel",
+      "price": 19.99,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/adventure-bottle.jpg",
+      "seller": {
+        "name": "Outdoor Essentials",
+        "email": "contact@outdoressentials.com",
+        "location": "Denver, USA"
+      }
+    },
+    {
+      "name": "Collapsible Travel Bottle",
+      "brand": "FlexiDrink",
+      "capacity_ml": 700,
+      "material": "Silicone",
+      "price": 7.99,
+      "currency": "USD",
+      "available": true,
+      "image": "https://example.com/images/collapsible-bottle.jpg",
+      "seller": {
+        "name": "Nomad Gear",
+        "email": "info@nomadgear.com",
+        "location": "Portland, USA"
+      }
+    },
+    {
+      "name": "Luxury Gold Water Bottle",
+      "brand": "EliteHydrate",
+      "capacity_ml": 1000,
+      "material": "Gold-Plated Stainless Steel",
+      "price": 99.99,
+      "currency": "USD",
+      "available": false,
+      "image": "https://example.com/images/luxury-gold-bottle.jpg",
+      "seller": {
+        "name": "Prestige Hydration",
+        "email": "vip@prestigehydration.com",
+        "location": "Beverly Hills, USA"
+      }
+    }
+  ]
+}
