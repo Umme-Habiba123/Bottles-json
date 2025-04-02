@@ -1,164 +1,133 @@
-{
-  "products": [
+[
     {
-      "id": 1,
-      "name": "Pure Aqua Water Bottle",
-      "brand": "AquaFresh",
-      "capacity_ml": 1000,
-      "material": "BPA-Free Plastic",
-      "price": 2.99,
-      "currency": "USD",
-      "available": true,
-      "image":"https://images.pexels.com/photos/5638734/pexels-photo-5638734.jpeg",
-      "seller": {
-        "name": "Hydration Supplies Ltd.",
-        "email": "contact@hydrationsupplies.com",
-        "location": "New York, USA"
-      }
+      "id": "9e7cda87-8160-458f-bd32-ecf253a2d86a",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 1L",
+      "seller": "Addidas",
+      "price": 33,
+      "stock": 7,
+      "ratings": 4,
+      "ratingsCount": 62,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a9c04ca9fa51408faf2fac8e0117abb9_9366/Steel_Metal_Bottle_1L_Black_EX7288_01_standard.jpg",
+      "shipping": 15,
+      "quantity": 0
     },
     {
-      "id": 2,
-      "name": "Crystal Clear Water Bottle",
-      "brand": "EcoHydro",
-      "capacity_ml": 750,
-      "material": "Glass",
-      "price": 4.99,
-      "currency": "USD",
-      "available": true,
-      "image": "https://images.pexels.com/photos/7035660/pexels-photo-7035660.jpeg",
-      "seller": {
-        "name": "Eco Water Solutions",
-        "email": "support@ecowaters.com",
-        "location": "Los Angeles, USA"
-      }
+      "id": "eaff8921-f7eb-446f-b072-d96559685de0",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 1L",
+      "seller": "Addidas",
+      "price": 40,
+      "stock": 14,
+      "ratings": 5,
+      "ratingsCount": 58,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c45df020e3ae4e9199a4ac7d0001cfb7_9366/Steel_Metal_Bottle_1L_White_EX7301_01_standard.jpg",
+      "shipping": 17,
+      "quantity": 0
     },
     {
-      "id": 3,
-      "name": "Sporty Hydration Bottle",
-      "brand": "FitFlow",
-      "capacity_ml": 1500,
-      "material": "Stainless Steel",
-      "price": 9.99,
-      "currency": "USD",
-      "available": false,
-      "image":"https://images.pexels.com/photos/3825541/pexels-photo-3825541.jpeg",
-      "seller": {
-        "name": "Active Gear Ltd.",
-        "email": "sales@activegear.com",
-        "location": "Chicago, USA"
-      }
+      "id": "96fd22a5-f22f-4ad8-b7b5-f1cfd0852553",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 1 L",
+      "seller": "Addidas",
+      "price": 46,
+      "stock": 2,
+      "ratings": 5,
+      "ratingsCount": 73,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c670a94f6388451a868fad440014460d_9366/Steel_Metal_Bottle_1_L_Purple_EY5529_01_standard.jpg",
+      "shipping": 45,
+      "quantity": 0
     },
     {
-      "id": 4,
-      "name": "Mini Traveler Bottle",
-      "brand": "CompactDrink",
-      "capacity_ml": 500,
-      "material": "Aluminum",
-      "price": 5.49,
-      "currency": "USD",
-      "available": true,
-      "image": "https://images.pexels.com/photos/7927775/pexels-photo-7927775.jpeg",
-      "seller": {
-        "name": "Travel Essentials Co.",
-        "email": "info@travelessentials.com",
-        "location": "San Francisco, USA"
-      }
+      "id": "e1a7c529-f91b-4ef5-a661-c2317c5c314e",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 1L",
+      "seller": "Addidas",
+      "price": 20,
+      "stock": 14,
+      "ratings": 5,
+      "ratingsCount": 63,
+      "img": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a76c66066dd4f1ca58caf9f00079432_9366/steel-metal-bottle-1l.jpg",
+      "shipping": 21,
+      "quantity": 0
     },
     {
-      "id": 5,
-      "name": "Thermo Guard Flask",
-      "brand": "HotCold",
-      "capacity_ml": 1200,
-      "material": "Double-Walled Stainless Steel",
-      "price": 14.99,
-      "currency": "USD",
-      "available": true,
-      "image":"https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
-      "seller": {
-        "name": "Thermal Solutions",
-        "email": "contact@thermalsolutions.com",
-        "location": "Seattle, USA"
-      }
+      "id": "e912ad01-2551-48dc-a709-4054cbfbcbbc",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 43,
+      "stock": 19,
+      "ratings": 4,
+      "ratingsCount": 64,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg",
+      "shipping": 43,
+      "quantity": 0
     },
     {
-      "id": 6,
-      "name": "Eco-Friendly Bamboo Bottle",
-      "brand": "GreenHydrate",
-      "capacity_ml": 800,
-      "material": "Bamboo & Stainless Steel",
-      "price": 12.99,
-      "currency": "USD",
-      "available": true,
-      "image": "https://images.pexels.com/photos/4397966/pexels-photo-4397966.jpeg",
-      "seller": {
-        "name": "Sustainable Living Co.",
-        "email": "hello@sustainableliving.com",
-        "location": "Austin, USA"
-      }
+      "id": "afc5d640-9943-437a-b644-ba1f6f12baa9",
+      "category": "Bottle",
+      "name": "Steel Straw Metal Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 43,
+      "stock": 10,
+      "ratings": 3,
+      "ratingsCount": 15,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f7fb63986ed34112bc57ac7d002c9f43_9366/Steel_Straw_Metal_Bottle_600_ML_White_EX7316_01_standard.jpg",
+      "shipping": 46,
+      "quantity": 0
     },
     {
-      "id": 7,
-      "name": "Ultra Light Plastic Bottle",
-      "brand": "LightFlow",
-      "capacity_ml": 600,
-      "material": "Recycled Plastic",
-      "price": 3.49,
-      "currency": "USD",
-      "available": false,
-      "image": "https://images.pexels.com/photos/9324017/pexels-photo-9324017.jpeg",
-      "seller": {
-        "name": "Everyday Hydration",
-        "email": "support@everydayhydration.com",
-        "location": "Miami, USA"
-      }
+      "id": "5b5c43d9-950d-4b9a-b7d9-ca489224a7b2",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 26,
+      "stock": 20,
+      "ratings": 5,
+      "ratingsCount": 83,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e2d870a680644e4d98e9ac7d0008ecc7_9366/Steel_Metal_Bottle_600_ML_Yellow_EX7307_01_standard.jpg",
+      "shipping": 6,
+      "quantity": 0
     },
     {
-      "id": 8,
-      "name": "Stainless Steel Adventure Bottle",
-      "brand": "TrailBlazer",
-      "capacity_ml": 1800,
-      "material": "Insulated Stainless Steel",
-      "price": 19.99,
-      "currency": "USD",
-      "available": true,
-      "image": "https://images.pexels.com/photos/10502880/pexels-photo-10502880.jpeg",
-      "seller": {
-        "name": "Outdoor Essentials",
-        "email": "contact@outdoressentials.com",
-        "location": "Denver, USA"
-      }
+      "id": "96239c09-8b1c-4c81-99f9-f43e7613eab3",
+      "category": "Bottle",
+      "name": "Squad Glass Bottle 720 ML",
+      "seller": "Addidas",
+      "price": 39,
+      "stock": 20,
+      "ratings": 3,
+      "ratingsCount": 1,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/77ad16764abf4e828560ad44001cd640_9366/Squad_Glass_Bottle_720_ML_Black_FZ7115_01_standard.jpg",
+      "shipping": 5,
+      "quantity": 0
     },
     {
-      "id": 9,
-      "name": "Collapsible Travel Bottle",
-      "brand": "FlexiDrink",
-      "capacity_ml": 700,
-      "material": "Silicone",
-      "price": 7.99,
-      "currency": "USD",
-      "available": true,
-      "image": "https://images.pexels.com/photos/8912533/pexels-photo-8912533.jpeg",
-      "seller": {
-        "name": "Nomad Gear",
-        "email": "info@nomadgear.com",
-        "location": "Portland, USA"
-      }
+      "id": "30698483-f7aa-49ba-9de9-9070f64dc263",
+      "category": "Bottle",
+      "name": "Steel Bottle 600 ML",
+      "seller": "Addidas",
+      "price": 23,
+      "stock": 11,
+      "ratings": 5,
+      "ratingsCount": 35,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/48057b65216644f683a9aa1c0172ae6e_9366/Steel_Bottle_600_ML_Black_CL6093_01_standard.jpg",
+      "shipping": 5,
+      "quantity": 0
     },
     {
-      "id": 10,
-      "name": "Luxury Gold Water Bottle",
-      "brand": "EliteHydrate",
-      "capacity_ml": 1000,
-      "material": "Gold-Plated Stainless Steel",
-      "price": 99.99,
-      "currency": "USD",
-      "available": false,
-      "image": "https://images.pexels.com/photos/731931/pexels-photo-731931.jpeg",
-      "seller": {
-        "name": "Prestige Hydration",
-        "email": "vip@prestigehydration.com",
-        "location": "Beverly Hills, USA"
-      }
+      "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 2L",
+      "seller": "Addidas",
+      "price": 37,
+      "stock": 14,
+      "ratings": 4,
+      "ratingsCount": 68,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f8d89293c9cb4bf08d52adb100f95a3a_9366/Steel_Metal_Bottle_2L_Black_EX7302_01_standard.jpg",
+      "shipping": 27,
+      "quantity": 0
     }
   ]
-}
+  
