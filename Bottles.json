@@ -9,7 +9,7 @@
       "price": 2.99,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/pure-aqua-water-bottle.jpg",
+      "image":"https://images.pexels.com/photos/5638734/pexels-photo-5638734.jpeg",
       "seller": {
         "name": "Hydration Supplies Ltd.",
         "email": "contact@hydrationsupplies.com",
@@ -25,7 +25,7 @@
       "price": 4.99,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/crystal-clear-bottle.jpg",
+      "image": "https://images.pexels.com/photos/7035660/pexels-photo-7035660.jpeg",
       "seller": {
         "name": "Eco Water Solutions",
         "email": "support@ecowaters.com",
@@ -41,7 +41,7 @@
       "price": 9.99,
       "currency": "USD",
       "available": false,
-      "image": "https://example.com/images/sporty-hydration-bottle.jpg",
+      "image":"https://images.pexels.com/photos/3825541/pexels-photo-3825541.jpeg",
       "seller": {
         "name": "Active Gear Ltd.",
         "email": "sales@activegear.com",
@@ -57,7 +57,7 @@
       "price": 5.49,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/mini-traveler-bottle.jpg",
+      "image": "https://images.pexels.com/photos/7927775/pexels-photo-7927775.jpeg",
       "seller": {
         "name": "Travel Essentials Co.",
         "email": "info@travelessentials.com",
@@ -73,7 +73,7 @@
       "price": 14.99,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/thermo-guard-flask.jpg",
+      "image":"https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
       "seller": {
         "name": "Thermal Solutions",
         "email": "contact@thermalsolutions.com",
@@ -89,7 +89,7 @@
       "price": 12.99,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/eco-bamboo-bottle.jpg",
+      "image": "https://images.pexels.com/photos/4397966/pexels-photo-4397966.jpeg",
       "seller": {
         "name": "Sustainable Living Co.",
         "email": "hello@sustainableliving.com",
@@ -105,7 +105,7 @@
       "price": 3.49,
       "currency": "USD",
       "available": false,
-      "image": "https://example.com/images/ultra-light-bottle.jpg",
+      "image": "https://images.pexels.com/photos/9324017/pexels-photo-9324017.jpeg",
       "seller": {
         "name": "Everyday Hydration",
         "email": "support@everydayhydration.com",
@@ -121,7 +121,7 @@
       "price": 19.99,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/adventure-bottle.jpg",
+      "image": "https://images.pexels.com/photos/10502880/pexels-photo-10502880.jpeg",
       "seller": {
         "name": "Outdoor Essentials",
         "email": "contact@outdoressentials.com",
@@ -137,7 +137,7 @@
       "price": 7.99,
       "currency": "USD",
       "available": true,
-      "image": "https://example.com/images/collapsible-bottle.jpg",
+      "image": "https://images.pexels.com/photos/8912533/pexels-photo-8912533.jpeg",
       "seller": {
         "name": "Nomad Gear",
         "email": "info@nomadgear.com",
@@ -153,7 +153,7 @@
       "price": 99.99,
       "currency": "USD",
       "available": false,
-      "image": "https://example.com/images/luxury-gold-bottle.jpg",
+      "image": "https://images.pexels.com/photos/731931/pexels-photo-731931.jpeg",
       "seller": {
         "name": "Prestige Hydration",
         "email": "vip@prestigehydration.com",
